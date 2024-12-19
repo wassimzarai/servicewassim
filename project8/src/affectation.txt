@@ -1,0 +1,17 @@
+Service 900 affecté à la réservation 0001
+Service 900 affecté à la réservation 0000
+Service 900 affecté à la réservation 1111
+Service 900 affecté à la réservation 2222
+Service 58 affecté à la réservation 2222
+Service 7858 affecté à la réservation 0001
+Service 58 affecté à la réservation 0001
+Service 900 affecté à la réservation 2222
+Service 900 affecté à la réservation 2222
+Service 900 affecté à la réservation 1111
+Service 900 affecté à la réservation 1111
+Service 70 affecté à la réservation 1111
+Service 70 affecté à la réservation 1111
+Service 100 affecté à la réservation 1111
+Service 1 affecté à la réservation 1111
+Service 70 affecté à la réservation 1111
+Service 7858 affecté à la réservation 1111

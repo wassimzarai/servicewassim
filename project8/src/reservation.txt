@@ -1,0 +1,4 @@
+1111|hassan|ariana|standart|1/2/2024|15:0|18:0|A|voiture|AAAA|Lavage|sur place
+0001|hassan|ennasr|standart|1/2/2024|15:0|18:0|B|voiture|AAAA|Maintenance|sur place
+0000|hassan|ariana|standart|1/3/2024|14:0|18:0|A|moto|AAAA|Maintenance|sur place
+2222|hassanp|carthage|standart|1/3/2024|14:0|18:0|C|moto|AAAA|Maintenance|sur place
